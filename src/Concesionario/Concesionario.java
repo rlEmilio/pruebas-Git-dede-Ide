@@ -183,7 +183,8 @@ public class Concesionario {
 
     }*/
 
-private void prueba(){
-    System.out.println("estoy probando cambios git");
-}
+    private void pruebaGithub(){
+        System.out.println("Esto es una prueba de github");
+    }
+
 }
